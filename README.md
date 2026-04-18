@@ -1,8 +1,8 @@
-SITE PARA A EMPRESA DUOMONTI
+# SITE PARA A EMPRESA DUOMONTI
 
-# site feito apenas "figurativo" como modelo para empresa, dados e informações ficticias
+- site feito apenas "figurativo" como modelo para empresa, dados e informações ficticias -
 
-# para vizualização do site acesse 
+ para vizualização do site acesse 
 https://dumonti.vercel.app/
 
 
