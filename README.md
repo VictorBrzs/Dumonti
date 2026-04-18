@@ -1,4 +1,4 @@
-# SITE PARA A EMPRESA DUOMONTI
+# SITE PARA A EMPRESA DUMONTI
 
 - site feito apenas "figurativo" como modelo para empresa, dados e informações ficticias -
 
